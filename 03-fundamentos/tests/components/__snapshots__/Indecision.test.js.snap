@@ -1,0 +1,29 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`tests in Indesicion > should match with the snapshot 1`] = `
+<div>
+  
+  <!--v-if-->
+  <div
+    class="bg-dark"
+    data-v-4a8fca50=""
+  />
+  <div
+    class="indecision-container"
+    data-v-4a8fca50=""
+  >
+    <input
+      data-v-4a8fca50=""
+      placeholder="Hazme una pregunta"
+      type="text"
+    />
+    <p
+      data-v-4a8fca50=""
+    >
+      Recuerda terminar con un signo de interrogacion (?)
+    </p>
+    <!--v-if-->
+  </div>
+  
+</div>
+`;
